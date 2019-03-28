@@ -1,0 +1,37 @@
+Name: Aman Seth
+Project Name: Scan Code and Optimising Machine
+Proposal: In the process of scanning the code for licences , after a full scan it will predict the most optimised code for the same code already written .
+
+       Scan Code : It is a command line tool used to scan code for licences ,copyrights ,and used by many like  in FOSS projects.
+Details:
+It will provide us the most accurate license detection engine and does a full comparison (aka. diff or red line) between a database of license texts and your code instead of relying only on regex patterns or probabilistic search, edit distance or machine learning.it will be written in python ,and will be  using some standard C/C++ library for compatibility .  In addition ,after the full scanning an optimised code of the already written code will be displayed and offered to the user for better explanation and optimisation of the already written code .
+Pipeline Of work :
+Using machine learning and integrating the codeBase with the cloud and then predicting the best optimised code for the current version of code will help the user to determine the scope of the final application in a better way.
+Extracting the code from the current open window base ,and then integrating it with cloud where all the necessary neural network algorithms will be already running to predict the best outcome of the project .
+Making it compatible for Windows , Linux and OS based environments will be the final task during the workflow of the project.
+Python plugins to allow user to install the necessary code for this functionality only when desired to do so.
+
+
+Previous Contribution  in Open Source:
+This is gonna be  my first experience  in GSoC and my first step towards open source world . I have a strong model proposal and I think I should get the chance to develop this futuristic software which will be used by billions in the market.
+
+ Academic Details:
+I am a second year undergraduate computer science student in India . My major area of focus and interest are Machine Learning ,Deep Learning , and Data Science .
+I have been the lead of Developer Students Club in my college ,technical lead at Microsoft Technical Community,I have been to FOSSASIA as a volunteer this year.
+I am Udacity passed nanodegree holder in Data Analytics and IBM certified Data Scientist. I have a strong technical background in full stack web development, Data Analytics ,and Machine Learning. I have several rated projects on Github.
+Link To github profile : https://github.com/amanseth123
+
+
+ Skills :
+I have a strong technical background in Data Analytics ,Machine Learning and Full Stack Web Development and these are almost compatible with the proposal I have made . I code in languages like Python,C/C++,Java, Javascript. I have a intermediate to advanced level skills in Python and C/C++,foundation to intermediate level of familiarity with Java ,Javascript.
+
+
+Previous Open Source Projects :
+It is gonna be my first GSoC experience and my first step towards open source development. I have no previous GSoC projects and almost new to the open source community. 
+     
+
+      Other Commitments:
+I have no other commitments during the GSoC timeframe and will dedicate full of my time and potential in developing this software .
+  
+
+
